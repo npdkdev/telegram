@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "897223984746",
+    "project_id": "npgram-29fa0",
+    "storage_bucket": "npgram-29fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897223984746:android:78769cd1c725f51645ac13",
+        "android_client_info": {
+          "package_name": "id.khenji.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897223984746-tksiv2gvp4f92i9p63rmbor3pu2cv98i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZYtW30ruFiIjHIii_SzwXWTtUD932zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897223984746-tksiv2gvp4f92i9p63rmbor3pu2cv98i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897223984746:android:93ec38fa75b0827445ac13",
+        "android_client_info": {
+          "package_name": "id.khenji.telegram.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897223984746-tksiv2gvp4f92i9p63rmbor3pu2cv98i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZYtW30ruFiIjHIii_SzwXWTtUD932zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897223984746-tksiv2gvp4f92i9p63rmbor3pu2cv98i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
